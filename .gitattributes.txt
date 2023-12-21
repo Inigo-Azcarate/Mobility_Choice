@@ -1,0 +1,1 @@
+preprocessing/raw_data/sections_gipuzkoa/sections_gipuzkoa.shp filter=lfs diff=lfs merge=lfs -text
