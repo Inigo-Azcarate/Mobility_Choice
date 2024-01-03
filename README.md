@@ -2,9 +2,9 @@
 
 # Folders
 
-    - [\model](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/model) Main folder of the repository. It contains the code to create the supervised learning AI model that predicts the mobility choices. 
-    - [\input_data](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/input_data) Contains all the data necessary to run the AI model in the \model folder. Some of the containing data is raw and the rest is a result of the codes in the \preprocessing folder.
-    - [\preprocessing](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/preprocessing) Contains the codes and the raw data to create the files in input files in \input_data.
+    - [model](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/model) Main folder of the repository. It contains the code to create the supervised learning AI model that predicts the mobility choices. 
+    - [input_data](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/input_data) Contains all the data necessary to run the AI model in the \model folder. Some of the containing data is raw and the rest is a result of the codes in the \preprocessing folder.
+    - [preprocessing](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/preprocessing) Contains the codes and the raw data to create the files in input files in \input_data.
 
 # Code files
 
