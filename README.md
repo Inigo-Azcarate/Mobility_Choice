@@ -19,4 +19,4 @@
 - `model.ipynb` adds noise to survey data, assigns origin and destination to each trip, and calculates the mode of transportation’s travel time and travel cost. Then, it trains the supervised learning AI model.
 - `predict.ipynb` uses the aforementioned AI model (Random Forest Classifier) and predicts the mode of transportation for an specific population
 
-Esto es una prueba
+![Preprocessing files](images/preprocessing_pic.png)
